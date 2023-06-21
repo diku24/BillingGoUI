@@ -1,1 +1,3 @@
-Hi!
+function base architecture(){
+    return <h1>hello </h1>;
+}
